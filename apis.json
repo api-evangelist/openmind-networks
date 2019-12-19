@@ -1,0 +1,63 @@
+{
+    "name": "Openmind Networks",
+    "description": "Openmind Networks provide Mobile Operators, Inter-Carrier Operators and Social Media providers with Messaging Solutions optimised for the new Digital Age. A2P Messaging and NFV.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2180-openmind-networks.jpg",
+    "tags": [
+        "have api",
+        "isp",
+        "messages",
+        "networks",
+        "telecommunications"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/openmind-networks\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Openmind Networks",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2180-openmind-networks.jpg",
+            "humanURL": "http:\/\/www.openmindnetworks.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/openmind-networks-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/openmind-networks"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/openmind-networks"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.openmindnetworks.com\/api"
+        },
+        {
+            "type": "Email",
+            "url": "careers@openmindnetworks.com"
+        },
+        {
+            "type": "Email",
+            "url": "sales@openmindnetworks.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Openmind_Ntwks"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.openmindnetworks.com\/"
+        }
+    ]
+}
